@@ -1,2 +1,2 @@
 # Clone_WhatsApp-Java
-Aplicação clone do WhatsApp feito em Java no Android Studio
+Aplicação Mobile clone do WhatsApp feito em Java no Android Studio
