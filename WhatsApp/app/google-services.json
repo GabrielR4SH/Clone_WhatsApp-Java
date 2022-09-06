@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511578550436",
+    "project_id": "whatsclone-d8124",
+    "storage_bucket": "whatsclone-d8124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511578550436:android:9d316fd389a2ff19aa7631",
+        "android_client_info": {
+          "package_name": "my.whatsapp.com.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511578550436-aul19nq5q7m6e43gagrn917hmffp81ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.whatsapp.com.br",
+            "certificate_hash": "dd9298e2e2369b33d4fde60de67c72b1f4e4e2e0"
+          }
+        },
+        {
+          "client_id": "511578550436-3p9ahg4vpb29iihkdak4ivmru2hgl1sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV6TcKqy8QF0f4PrLEQgKy-GweyPtcy2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511578550436-3p9ahg4vpb29iihkdak4ivmru2hgl1sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
